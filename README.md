@@ -1,2 +1,2 @@
 # AjisafeHospital
-Hospital appointment booking system with Node.js, Express, and SQLite.
+Clinic management system for booking and managing patient appointments in real time.
